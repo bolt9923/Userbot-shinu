@@ -40,7 +40,7 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/PURVI_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/huntermafiya"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
@@ -48,4 +48,4 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI) ғᴏʀ [𝖳HE PURVI MUSIC™](https://github.com/TEAMPURVI/PURVI_MUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [𝖳HE SHINU MUSIC™](https://github.com/TEAMPURVI) ғᴏʀ [𝖳HE SHINU MUSIC™](https://github.com/SHINU/ShiNU_MUSIC) </b>
